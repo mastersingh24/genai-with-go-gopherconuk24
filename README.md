@@ -27,6 +27,16 @@
 
         export GOOGLE_GENAI_API_KEY=AIzaSyA-UsZ197-91efA4Ae8DdSV-4TnPPDXaBY
 
+# References
 
+- [Generative AI and LLMS for Dummies](https://www.snowflake.com/resource/generative-ai-and-llms-for-dummies)
+
+- [Get started with the Gemini API](https://ai.google.dev/gemini-api/docs)
+
+- [Ollama](https://ollama.com/)
+
+- [Langchain Go](https://tmc.github.io/langchaingo/docs/)
+
+- [Genkit (Go)](https://firebase.google.com/docs/genkit-go/get-started-go)
 
 
