@@ -35,7 +35,7 @@
 
 - [Ollama](https://ollama.com/)
 
-- [Langchain Go](https://tmc.github.io/langchaingo/docs/)
+- [LangChain Go](https://tmc.github.io/langchaingo/docs/)
 
 - [Genkit (Go)](https://firebase.google.com/docs/genkit-go/get-started-go)
 
