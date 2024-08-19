@@ -1,3 +1,7 @@
+# Slides from GopherCon UK 2024
+
+- [Building GenAI Applications in Go](https://drive.google.com/file/d/1l4IHycP8dP9xQQHnvZeo9doCSMWek2YY/view?usp=drive_link)
+
 # Prerequisites 
 
 ## Ollama
