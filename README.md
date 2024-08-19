@@ -23,9 +23,7 @@
 
 - https://aistudio.google.com/app/apikey (optional)
 
-- For today, you can use the following command in your environment:
-
-        export GOOGLE_GENAI_API_KEY=AIzaSyA-UsZ197-91efA4Ae8DdSV-4TnPPDXaBY
+        export GOOGLE_GENAI_API_KEY=[API KEY FROM ABOVE]
 
 # References
 
